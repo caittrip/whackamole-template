@@ -1,5 +1,5 @@
 import pygame
-# comment
+# comments
 def main():
     try:
         pygame.init()
